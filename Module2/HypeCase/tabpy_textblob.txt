@@ -1,0 +1,3 @@
+tmux new -s tabpy
+tabpy
+^Bd
