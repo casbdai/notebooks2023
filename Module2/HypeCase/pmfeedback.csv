@@ -1,0 +1,11 @@
+Title,Selected
+Option to use either light or dark interface.,Yes
+Support creating calculation groups in Analytics BI Desktop,Yes
+Add expand/collapse feature to column headers,Yes
+Paginated reports - please make it available in Pro as well as Premium,Yes
+Show column data profile statistics in header,Yes
+incremental refresh for Analytics BI Pro,Yes
+Composite models when connected to SQL Server Analysis Services Tabular (SSAS),Yes
+Analytics BI direct connector to ADLS2 (Azure Data Lake Storage Gen2) thus Analytics BI directly connect to ADLS2 for reporting and Firewall slider,Yes
+Measure Management & DAX Editor,Yes
+scheduled export of a report to pdf,Yes
