@@ -1,2 +1,4 @@
 ignore
 *.zip
+.ipynb_checkpoints
+plots
